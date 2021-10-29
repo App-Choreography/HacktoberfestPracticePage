@@ -19,7 +19,7 @@ Once all 4 is completed, you will get the option for some c😎😎l *swag* or t
 
 ### 🤞 Hopefully, this is what you shall get : 🤞
 
-
+![Example](https://user-images.githubusercontent.com/70807500/139414351-b03baa23-183c-4390-9b3e-a8cd3251ccc2.png)
 
 ### 🧾 How to make your own!
 
