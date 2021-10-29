@@ -3,6 +3,20 @@
 # Hacktoberfest Practice Page! 📃
 
 > This is **NOT** part of Hacktoberfest, this is a way to practice your open source contributions, ready for the next **Hacktoberfest**.
+- [Hacktoberfest Practice Page! 📃](#hacktoberfest-practice-page-)
+    - [💬 What is *Hacktoberfest*? 💬](#-what-is-hacktoberfest-)
+    - [💬 What do you do at Hacktoberfest? 💬](#-what-do-you-do-at-hacktoberfest-)
+    - [💬 What are the rewards? 💬](#-what-are-the-rewards-)
+  - [Today, we are going to make our own Markdown Social Profiles!](#today-we-are-going-to-make-our-own-markdown-social-profiles)
+    - [🤞 Hopefully, this is what you shall get : 🤞](#-hopefully-this-is-what-you-shall-get--)
+    - [🧾 How to make your own!](#-how-to-make-your-own)
+    - [Pushing your changed the the remote copy:](#pushing-your-changed-the-the-remote-copy)
+    - [Making A Pull Request:](#making-a-pull-request)
+  - [Our rewards for you 🥇:](#our-rewards-for-you-)
+
+Press the dropdown below to see what is Hacktoberfest.
+<details close>
+    <summary> About the Official Hacktoberfest. </summary> 
 
 ### 💬 What is *Hacktoberfest*? 💬
 Hacktoberfest is a celebration 🎊 of contributing to open source at Github! Every year, on the month of October, this event begins. 
@@ -13,10 +27,13 @@ For the repos that have signed up to Hacktoberfest, you can contribute to and ma
 ### 💬 What are the rewards? 💬
 Once all 4 is completed, you will get the option for some c😎😎l *swag* or the option to plant a tree 🌲. But the best reward is... you have learned open source 🤗.
 
+</details>
+
 ## Today, we are going to make our own Markdown Social Profiles!
 
 > If you need help on mastering Markdown, see [👉 Here 👈](https://www.markdownguide.org/)
 
+If your PR is successful, you will get the digital sticker!
 ### 🤞 Hopefully, this is what you shall get : 🤞
 
 
