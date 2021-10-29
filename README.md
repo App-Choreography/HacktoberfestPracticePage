@@ -1,2 +1,2 @@
-# HacktoberfestPratice
+# HacktoberfestPractice
 PRACTICE for Hacktoberfest! 📝
