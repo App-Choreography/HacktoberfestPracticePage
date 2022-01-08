@@ -25,7 +25,7 @@ Hacktoberfest is a celebration 🎊 of contributing to open source at Github! Ev
 For the repos that have signed up to Hacktoberfest, you can contribute to and make a pr, to hope for a **Hacktoberfest-Accepted** tag on your PR. Once you have `4` valid PR's, you have completed Hacktoberfest!
 
 ### 💬 What are the rewards? 💬
-Once all 4 is completed, you will get the option for some c😎😎l *swag* or the option to plant a tree 🌲. But the best reward is... you have learned open source 🤗.
+Once all 4 valid PR's are completed, you will get the option for some c😎😎l *swag* or the option to plant a tree 🌲. But the best reward is... you have learned open source 🤗.
 
 </details>
 
@@ -42,7 +42,7 @@ If your PR is successful, you will get the digital sticker!
 
 1. Fork 🍽️ this repo, by pressing the `fork` button at the top right of the screen.
 2. `git clone` your forked version of the repo to your PC.
-3. Now oyu have your own local copy, go to the `SocialProfiles` folder.
+3. Now you have your own local copy, go to the `SocialProfiles` folder.
 4. Make a file with your name as the file name:
 **EG:**
 `CodingSpecies.md`
@@ -68,13 +68,13 @@ If your PR is successful, you will get the digital sticker!
 7. Answer everything in the brackets.
 9. Now, go to the [SocialProfileList.md](./SocialProfileList.md) and add your file path as shown in the file.
 
-### Pushing your changed the the remote copy:
+### Pushing your changed the remote copy:
 
 1. Go to your terminal/ git bash.
 2. `cd` to the repo.
 3. `git add -A` to add all of your changes.
 4. `git commit -m "Added my profile."` to commit your changes.
-5. `git push` to push all you changes successfully.
+5. `git push` to push all your changes successfully.
 
 ### Making A Pull Request: 
 1. Go to your forked copy, and where it says `This branch is ___ commits ahead of App-Choreography:main.` it shows a contribute button.
