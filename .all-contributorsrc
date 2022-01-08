@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Cyebukayire",
+      "name": "Peace",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55869293?v=4",
+      "profile": "https://www.linkedin.com/in/peace-cyebukayire-b4a810187/",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "HacktoberfestPracticePage",
+  "projectOwner": "App-Choreography",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
