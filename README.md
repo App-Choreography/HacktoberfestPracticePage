@@ -58,33 +58,33 @@ If your PR is successful, you will get the digital sticker designed personally f
 
 <div align=center>
 
-<img src="../avatar/seeAvatarFolderChooseYourAvatar.png" />
+  <img src="../avatar/seeAvatarFolderChooseYourAvatar.png" />
 
-<h1> Name here </h1>
+    <h1> Name here </h1>
 
-<h4>💭 <b> Motto goes here 💭 </b> </h4>
+    <h4>💭 <b> Motto goes here 💭 </b> </h4>
 
-<br>
+    <br>
 
-<img src="../assets/job.png">
+    <img src="../assets/job.png">
 
-<h3> Profession: Your job </h3>
+    <h3> Profession: Your job </h3>
 
-<img src="../assets/website.png">
+    <img src="../assets/website.png">
 
-<a href="website url"> <h3>Website: Your website name </h3> </a>
+    <a href="website url"> <h3>Website: Your website name </h3> </a>
 
-<br>
+    <br>
 
-<img src="../assets/emoji.png" />
+    <img src="../assets/emoji.png" />
 
-<h3> Favourite Emoji: Fave emoji
+    <h3> Favourite Emoji: Fave emoji
 
-<br>
+    <br>
 
-<img src="../assets/code.png" />
+    <img src="../assets/code.png" />
 
-<h3> Favourite Code Language: fave code lang
+    <h3> Favourite Code Language: fave code lang
 
 </div> 
 
