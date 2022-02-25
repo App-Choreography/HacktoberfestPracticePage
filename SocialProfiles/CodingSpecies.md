@@ -8,7 +8,6 @@
 <h4>💭 <b> One Tutorial, one laptop, one dev will change the code. 💭 </b> </h4>
 
 <br>
-<br>
 
 <img src="../assets/job.png">
 
@@ -19,13 +18,11 @@
 <a href="https://codingspecies.github.io/MeAndMyApps/"> <h3>Website: Me And My Apps </h3> </a>
 
 <br>
-<br>
 
 <img src="../assets/emoji.png" />
 
 <h3> Favourite Emoji: 🤩
 
-<br>
 <br>
 
 <img src="../assets/code.png" />
