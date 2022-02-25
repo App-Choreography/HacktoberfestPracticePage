@@ -27,6 +27,8 @@
 
 <img src="../assets/code.png" />
 
-<h3> Favourite Code Language: CSS
+<h3> Favourite Code Language: CSS </h3>
+
+<a href="https://app-choreography.github.io/HacktoberfestPracticePage/SocialProfiles/CodingSpecies.html"> <h3> Share me elsewhere! </h3> </a>
 
 </div> 
