@@ -10,12 +10,13 @@
     - [💬 What is *Hacktoberfest*? 💬](#-what-is-hacktoberfest-)
     - [💬 What do you do at Hacktoberfest? 💬](#-what-do-you-do-at-hacktoberfest-)
     - [💬 What are the rewards? 💬](#-what-are-the-rewards-)
-  - [Today, we are going to make our own Markdown Social Profiles!](#today-we-are-going-to-make-our-own-markdown-social-profiles)
+  - [Today, we are going to Markup our own *Markdown* social profiles!](#today-we-are-going-to-markup-our-own-markdown-social-profiles)
     - [🤞 Hopefully, this is what you shall get : 🤞](#-hopefully-this-is-what-you-shall-get--)
     - [🧾 How to make your own!](#-how-to-make-your-own)
-    - [Pushing your changed the the remote copy:](#pushing-your-changed-the-the-remote-copy)
+    - [Pushing your changed the remote copy:](#pushing-your-changed-the-remote-copy)
     - [Making A Pull Request:](#making-a-pull-request)
   - [Our rewards for you 🥇:](#our-rewards-for-you-)
+  - [Contributors ✨](#contributors-)
 
 Press the dropdown below to see what is Hacktoberfest.
 <details close>
@@ -32,7 +33,7 @@ Once all 4 valid PR's are completed, you will get the option for some c😎😎l
 
 </details>
 
-## Today, we are going to make our own Markdown Social Profiles!
+## Today, we are going to Markup our own *Markdown* social profiles!
 
 > If you need help on mastering Markdown, see [👉 Here 👈](https://www.markdownguide.org/)
 

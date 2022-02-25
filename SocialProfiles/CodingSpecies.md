@@ -1,16 +1,35 @@
-## CodingSpecies Profile 😎
-💭 *One Tutorial, one laptop, one dev will change the code.* 💭
 
-### 📛 Name: Coding Species.
-### ⚒️ Job: Software Engineer.
-### 🌐 Website: https://codingspecies.github.io/MeAndMyApps/
-### 📷 Profile Pic:
-<img src="https://github.com/CodingSpecies.png" height= 100 /> 
+<div align=center>
 
--------------------
-> Now for the fun...
-### 👩‍💻 Favourite Coding Language: CSS.
-### 🕴️ Favourite emoji: 🤩.
-### 💻 Are you a Windows or Linux fan: Linux.
+<img src="../avatar/girl3.png" />
 
+<h1> 𝒞𝑜𝒹𝒾𝓃𝑔𝒮𝓅𝑒𝒸𝒾𝑒𝓈 </h1>
 
+<h4>💭 <b> One Tutorial, one laptop, one dev will change the code. 💭 </b> </h4>
+
+<br>
+<br>
+
+<img src="../assets/job.png">
+
+<h3> Profession: Software Engineer </h3>
+
+<img src="../assets/website.png">
+
+<a href="https://codingspecies.github.io/MeAndMyApps/"> <h3>Website: Me And My Apps </h3> </a>
+
+<br>
+<br>
+
+<img src="../assets/emoji.png" />
+
+<h3> Favourite Emoji: 🤩
+
+<br>
+<br>
+
+<img src="../assets/code.png" />
+
+<h3> Favourite Code Language: CSS
+
+</div> 
