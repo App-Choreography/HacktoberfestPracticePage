@@ -58,7 +58,7 @@ If your PR is successful, you will get the digital sticker designed personally f
 
 <div align=center>
 
-<img src="../avatar/girl3.png" />
+<img src="../avatar/seeAvatarFolderChooseYourAvatar.png" />
 
 <h1> Name here </h1>
 
