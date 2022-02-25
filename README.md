@@ -67,23 +67,21 @@ If your PR is successful, you will get the digital sticker designed personally f
     <br>
 
     <img src="../assets/job.png">
-
     <h3> Profession: Your job </h3>
 
-    <img src="../assets/website.png">
+    <br>
 
+    <img src="../assets/website.png">
     <a href="website url"> <h3>Website: Your website name </h3> </a>
 
     <br>
 
     <img src="../assets/emoji.png" />
-
     <h3> Favourite Emoji: Fave emoji
 
     <br>
 
     <img src="../assets/code.png" />
-
     <h3> Favourite Code Language: fave code lang
 
 </div> 
