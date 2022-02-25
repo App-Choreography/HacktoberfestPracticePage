@@ -52,25 +52,44 @@ If your PR is successful, you will get the digital sticker designed personally f
 `CodingSpecies.md`
 5. Use this as your boilerplate code:
 
-```md 
-## (Name)'s Profile 😎
-💭 (Put your motto here.) 💭
+```html 
 
-### 📛 Name: (Put name here).
-### ⚒️ Job: (Put job here).
-### 🌐 Website: (Put website here).
-### 📷 Profile Pic:
-<img src="https://github.com/<GITHUBUSERNAME>.png" height= 100 /> 
+<div align=center>
 
-------------------- 
-> Now for the fun...
-### 👩‍💻 Favourite Coding Language: (Fave computer lang here).
-### 🕴️ Favourite emoji: (fave emoji here).
-### 💻 Are you a Windows or Linux fan: (Put option here).
+<img src="../avatar/girl3.png" />
+
+<h1> Name here </h1>
+
+<h4>💭 <b> Motto goes here 💭 </b> </h4>
+
+<br>
+
+<img src="../assets/job.png">
+
+<h3> Profession: Your job </h3>
+
+<img src="../assets/website.png">
+
+<a href="website url"> <h3>Website: Your website name </h3> </a>
+
+<br>
+
+<img src="../assets/emoji.png" />
+
+<h3> Favourite Emoji: Fave emoji
+
+<br>
+
+<img src="../assets/code.png" />
+
+<h3> Favourite Code Language: fave code lang
+
+</div> 
+
 ```
 6. Copy the boilerplate into your file 📂.
-7. Answer everything in the brackets.
-9. Now, go to the [SocialProfileList.md](./SocialProfileList.md) and add your file path as shown in the file.
+7. Change it to your personal choices!
+8. Now, go to the [SocialProfileList.md](./SocialProfileList.md) and add your file path as shown in the file.
 
 ### Pushing your changed the remote copy:
 
