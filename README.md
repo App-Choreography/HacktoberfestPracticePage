@@ -40,7 +40,7 @@ Once all 4 valid PR's are completed, you will get the option for some c😎😎l
 If your PR is successful, you will get the digital sticker designed personally for you!
 ### 🤞 Hopefully, this is what you shall get : 🤞
 
-![Example](https://user-images.githubusercontent.com/70807500/139414351-b03baa23-183c-4390-9b3e-a8cd3251ccc2.png)
+![eg](https://user-images.githubusercontent.com/70807500/155803634-4b4b2236-5304-4810-9919-a120f53136ec.png)
 
 ### 🧾 How to make your own!
 
