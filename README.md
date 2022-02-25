@@ -35,6 +35,8 @@ Once all 4 valid PR's are completed, you will get the option for some c😎😎l
 
 ## Today, we are going to Markup our own *Markdown* social profiles!
 
+[See all profiles](./SocialProfileList.md)
+
 > If you need help on mastering Markdown, see [👉 Here 👈](https://www.markdownguide.org/)
 
 If your PR is successful, you will get the digital sticker designed personally for you!
